@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
   <diagram name="Page-1" id="QnvK0ydrWeF4V8ni069g">
-    <mxGraphModel dx="1508" dy="2153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="861" dy="1701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -241,16 +241,16 @@
         <mxCell id="RD93hiFjfClhDRgsrzVd-101" value="BIM" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="410" y="35" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RD93hiFjfClhDRgsrzVd-102" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+        <mxCell id="RD93hiFjfClhDRgsrzVd-102" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontColor=light-dark(#000000,#080808);" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="-40" as="sourcePoint" />
             <mxPoint x="240" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RD93hiFjfClhDRgsrzVd-107" value="&lt;font&gt;Begrebs-præcision&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="RD93hiFjfClhDRgsrzVd-107" value="&lt;font&gt;Begrebs-præcision&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontColor=light-dark(#000000,#0D0D0D);" vertex="1" parent="1">
           <mxGeometry x="210" y="-80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RD93hiFjfClhDRgsrzVd-108" value="&lt;font&gt;EU-regi&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="RD93hiFjfClhDRgsrzVd-108" value="&lt;font&gt;EU-regi&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontColor=light-dark(#000000,#0D0D0D);" vertex="1" parent="1">
           <mxGeometry x="210" y="101.63" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
