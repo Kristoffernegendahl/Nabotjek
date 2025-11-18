@@ -241,7 +241,7 @@
         <mxCell id="RD93hiFjfClhDRgsrzVd-101" value="BIM" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="410" y="35" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RD93hiFjfClhDRgsrzVd-102" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontColor=light-dark(#000000,#080808);" edge="1" parent="1">
+        <mxCell id="RD93hiFjfClhDRgsrzVd-102" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontColor=light-dark(#000000,#080808);strokeColor=light-dark(#000000,#000000);" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="-40" as="sourcePoint" />
             <mxPoint x="240" y="110" as="targetPoint" />
