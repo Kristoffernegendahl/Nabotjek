@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
   <diagram name="Page-1" id="QnvK0ydrWeF4V8ni069g">
-    <mxGraphModel dx="603" dy="1453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="574" dy="1501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RD93hiFjfClhDRgsrzVd-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;EU Green Deal&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#0050EF,#4674A5);fontColor=#ffffff;strokeColor=#001DBC;gradientColor=default;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-50" width="340" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="RD93hiFjfClhDRgsrzVd-88" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pointed_oval;strokeColor=#001DBC;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="477.5" y="80" width="25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RD93hiFjfClhDRgsrzVd-82" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pointed_oval;strokeColor=#A50040;fillColor=#d80073;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="80" width="25" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="RD93hiFjfClhDRgsrzVd-41" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#0050ef, #6daf99);fontColor=#ffffff;gradientColor=default;gradientDirection=radial;" vertex="1" parent="1">
           <mxGeometry x="1163.59" y="144" width="30" height="30" as="geometry" />
         </mxCell>
@@ -28,11 +37,8 @@
         <mxCell id="RD93hiFjfClhDRgsrzVd-3" value="DBL" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="380" y="60" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RD93hiFjfClhDRgsrzVd-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;EU Green Deal&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="270" y="-50" width="340" height="260" as="geometry" />
-        </mxCell>
         <mxCell id="RD93hiFjfClhDRgsrzVd-4" value="DPP" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="60" width="120" height="100" as="geometry" />
+          <mxGeometry x="480" y="60.63" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="RD93hiFjfClhDRgsrzVd-7" value="Ecodesign&lt;div&gt;(ESPR)&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="20" width="60" height="30" as="geometry" />
@@ -44,7 +50,7 @@
           <mxGeometry x="460" y="40" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RD93hiFjfClhDRgsrzVd-10" value="B" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="95" width="60" height="30" as="geometry" />
+          <mxGeometry x="460" y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RD93hiFjfClhDRgsrzVd-11" value="A" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="95" width="60" height="30" as="geometry" />
