@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="QnvK0ydrWeF4V8ni069g">
-    <mxGraphModel dx="2076" dy="1873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1892" dy="1661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="95VaS3a8ZPRAmdBT_d_A-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="" vertex="1">
+          <mxGeometry height="227.21" width="260" x="1210" y="412.79" as="geometry" />
+        </mxCell>
         <mxCell id="fQQv7FSGMax6J-_FwlRz-57" parent="1" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;gradientColor=light-dark(#000000,#7EA6E0);fillColor=light-dark(#0050EF,#4674A5);gradientDirection=south;" value="" vertex="1">
           <mxGeometry height="540" width="560" x="300" y="674" as="geometry" />
         </mxCell>
@@ -513,6 +516,27 @@
             <mxPoint x="555" y="1130" as="sourcePoint" />
             <mxPoint x="615" y="1130" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="95VaS3a8ZPRAmdBT_d_A-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fillStyle=solid;gradientColor=light-dark(#60A917,#67AB9F);" value="" vertex="1">
+          <mxGeometry height="115.93" width="119" x="1211" y="468.89" as="geometry" />
+        </mxCell>
+        <mxCell id="95VaS3a8ZPRAmdBT_d_A-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;" value="&lt;span style=&quot;font-size:10.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-ansi-language:DA;mso-fareast-language:DA;mso-bidi-language:AR-SA&quot;&gt;INSPIRE&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="1240.5000000000002" y="508.89" as="geometry" />
+        </mxCell>
+        <mxCell id="95VaS3a8ZPRAmdBT_d_A-7" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;span style=&quot;font-size:10.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&amp;lt;br/&amp;gt;mso-ansi-language:DA;mso-fareast-language:DA;mso-bidi-language:AR-SA&quot;&gt;EU’s Data Act &lt;/span&gt;" vertex="1">
+          <mxGeometry height="33.14" width="107.71" x="1300.5" y="435.75" as="geometry" />
+        </mxCell>
+        <mxCell id="95VaS3a8ZPRAmdBT_d_A-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fillStyle=solid;gradientColor=light-dark(#60A917,#67AB9F);" value="" vertex="1">
+          <mxGeometry height="115.93" width="118.4" x="1350" y="465.93" as="geometry" />
+        </mxCell>
+        <mxCell id="95VaS3a8ZPRAmdBT_d_A-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;" value="&lt;span style=&quot;font-size:10.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&amp;lt;br/&amp;gt;mso-ansi-language:DA;mso-fareast-language:DA;mso-bidi-language:AR-SA&quot;&gt;Byggevare-forordningen&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="1374.5500000000002" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="95VaS3a8ZPRAmdBT_d_A-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#FFFFFF,#FFFFFF);gradientColor=none;fillStyle=solid;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="1280" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="95VaS3a8ZPRAmdBT_d_A-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Bygningslogbøger&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="105.43" x="1287.28" y="575" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
